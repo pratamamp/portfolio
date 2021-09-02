@@ -1,0 +1,141 @@
+{
+    "title": "M Pratama portfolio",
+    "frontend" : [
+        {
+            "title" : "Javascript",
+            "value" : "70"
+        },
+        {
+            "title" : "React js",
+            "value" : "70"
+        },
+        {
+            "title" : "React Native",
+            "value" : "75"
+        }
+    ],
+    "backend" : [
+        {
+            "title" : "PHP",
+            "value" : "80"
+        },
+        {
+            "title" : "Node JS",
+            "value" : "70"
+        },
+        {
+            "title" : "MySQL",
+            "value" : "70"
+        },
+        {
+            "title" : "Firebase",
+            "value" : "70"
+        }
+    ],
+    "design" : [
+        {
+            "title" : "Illustrator",
+            "value" : "70"
+        },
+        {
+            "title" : "Figma",
+            "value" : "70"
+        }
+    ],
+    "game" : [
+        {
+            "title" : "Actionscript 3",
+            "value" : "80"
+        },
+        {
+            "title" : "Phaser js",
+            "value" : "60"
+        },
+        {
+            "title" : "After Effect",
+            "value" : "65"
+        },
+        {
+            "title" : "Unity 3d",
+            "value" : "65"
+        }
+    ],
+    "education" : [
+        {
+            "title" : "Bachelor Degree",
+            "subtitle" : "Information Technology USNI - Jakarta",
+            "time" : "2000 - 2007"
+        },
+        {
+            "title" : "Senior High School",
+            "subtitle" : "SMU Keluarga Widuri - Jakarta",
+            "time" : "1997 - 2000"
+        }
+    ],
+    "work" : [
+        {
+            "title" : "Web Developer",
+            "subtitle" : "Telesat System Integrator - Jakarta",
+            "time" : "Jun 2019 - Jul 2021"
+        },
+        {
+            "title" : "Web Developer",
+            "subtitle" : "Icube - Jogjakarta",
+            "time" : "Jan 2019 - Mei 2019"
+        },
+        {
+            "title" : "Fullstack Developer",
+            "subtitle" : "Codigo Cyberlin Metadata - Jakarta",
+            "time" : "Oct 2016 - Oct 2018"
+        },
+        {
+            "title" : "Web Developer",
+            "subtitle" : "Bisnis Indonesia Sibertama - Jakarta",
+            "time" : "Aug 2014 - Sep 2016"
+        },
+        {
+            "title" : "Flash Developer",
+            "subtitle" : "MNC Okezone - Jakarta",
+            "time" : "Feb 2011 - Jul 2014"
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "image" : "./assets/img/ayobandung.jpg",
+            "title" : "Ayo Bandung",
+            "description" : "Using Node.js, Express & MySQL. Awesome news portal website."
+        },
+        {
+            "image" : "./assets/img/puzzle.jpg",
+            "title" : "Puzzle minigame",
+            "description" : "A gaming activity from pajak.go.id. Complete the pieces of image became a nice picture."
+        },
+        {
+            "image" : "./assets/img/netconnectapi.jpg",
+            "title" : "API NetConnect",
+            "description" : "This is an API for NET Connect. Is an intuitive App you can use to interact with NET's TV Programs"
+        },
+        {
+            "image" : "./assets/img/inaport.jpg",
+            "title" : "Pelindo 4",
+            "description" : "This is a company profile website of pelindo 4. Using PHP, MySQL and Codeigniter."
+        },
+        {
+            "title": "Taxman by Pajak",
+            "description": "This is a gaming activity from pajak.go.id. Collect your 'SPT' without catch the thief, and became a tax compliance person.",
+            "image": "./assets/img/taxman.jpg"
+        },
+        {
+            "title": "Sibertama",
+            "description":"This is company profile website.",
+            "image": "./assets/img/sibertama1.jpg"
+        },
+        {
+            "title": "Clone Hulu (Ui/Ux)",
+            "description":"This is clone hulu ui/ux. Create with next js, tailwind, imdb API",
+            "image": "./assets/img/clone-hulu.png"
+        }
+        
+    ]
+}
